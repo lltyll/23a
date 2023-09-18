@@ -15,3 +15,7 @@
 s='python highlighting text'
 print(s)
 
+‵‵‵js
+var s ="JavaScript syntax highlighting text "
+alert(s);
+
