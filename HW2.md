@@ -35,7 +35,7 @@ gantt
 ---
 
 # PERT 圖
-![PRET](PRET.jpg'picture') 
+![p](aumov-j4z7q.png '圖') 
 
 
 # 關鍵路徑
