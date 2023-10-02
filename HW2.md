@@ -35,7 +35,7 @@ gantt
 ---
 
 # PERT 圖
-![PRET](PRET.jpg'圖') 
+![PRET](PRET.jpg'picture') 
 
 
 # 關鍵路徑
